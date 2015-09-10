@@ -4,5 +4,4 @@ Link para apresentação: http://thompsonemerson.github.io/o-futuro-dos-apps-hib
 
 
 ## License
-
 MIT licensed
